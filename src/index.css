@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --color-primary-blue: #4F8FEF;
+  --color-secondary-blue: #6BA5F5;
+  --color-pale-blue: #EAF4FF;
+  --color-gradient-start: #DCEEFF;
+  --color-gradient-end: #B8E4F4;
+  --color-navy-heading: #17243A;
+  --color-body-text: #667085;
+  --color-subtle-border: #E5EDF7;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  color: #667085;
+  background-color: #FFFFFF;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', sans-serif;
+  color: #17243A;
+}
+
+button, .btn {
+  font-family: 'Poppins', sans-serif;
+}

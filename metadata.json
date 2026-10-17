@@ -1,0 +1,8 @@
+{
+  "name": "Maxclean - House Cleaning Services in Paphos",
+  "description": "Premium website for Maxclean, providing professional house, apartment, and villa cleaning services in Paphos, Cyprus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
